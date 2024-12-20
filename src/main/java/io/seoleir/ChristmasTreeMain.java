@@ -2,7 +2,7 @@ package io.seoleir;
 
 import io.seoleir.runner.ConsoleRunner;
 
-public class Main {
+public class ChristmasTreeMain {
     public static void main(String[] args) {
         new ConsoleRunner().runChristmasTree();
     }
